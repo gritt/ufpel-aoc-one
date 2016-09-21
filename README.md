@@ -1,7 +1,7 @@
 **UFPelAOC1**
 =========
 
-Repository focused to organize college projects (Architecture and Computer Organization) Likely to contain common/classic assembly and MIPS structure exercies.
+Repository focused to organize college projects (Architecture and Computer Organization) Likely to contain common/classic assembly and MIPS architecture exercises.
 
 
 _UFPel: http://portal.ufpel.edu.br_
