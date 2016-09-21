@@ -1,4 +1,4 @@
-**UFPelAED1**
+**UFPelAOC1**
 =========
 
 Repository focused to organize college projects (Architecture and Computer Organization) Likely to contain common/classic assembly and MIPS structure exercies.
