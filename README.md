@@ -1,5 +1,9 @@
-Repository focused to organize college projects (architecture and computer organization) Likely to contain common/classic assembly and MIPS structure exercies.
+**UFPelAED1**
+=========
 
-UFPel: http://portal.ufpel.edu.br
+Repository focused to organize college projects (Architecture and Computer Organization) Likely to contain common/classic assembly and MIPS structure exercies.
 
-Computer Science at UFPel: http://inf.ufpel.edu.br
+
+_UFPel: http://portal.ufpel.edu.br_
+
+_Computer Science at UFPel: http://inf.ufpel.edu.br_
